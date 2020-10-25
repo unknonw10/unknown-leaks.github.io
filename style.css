@@ -90,8 +90,8 @@ button{
 }
 .icon {
 	position: absolute;
-	top: 34%;
-	left: 35%;
+	top: 40%;
+	left: 30%;
 }
 .icon a {
 	display: inline-block;
@@ -146,7 +146,7 @@ button{
 }
 .fix-hr {
     margin-left: 400px;
-    margin-right: 405px;
+    margin-right: 435px;
 }
 .toptitle {
     font-family: 'Courier New', Courier, monospace;
@@ -156,7 +156,6 @@ button{
 body{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     width: auto;
-    margin: auto;
 }
 nav{
     background: #1d4ab3;
@@ -165,7 +164,7 @@ nav{
     font-size: 30px;
     display: inline-block;
     margin-bottom: 30px;
-    margin-left: 325px;
+    margin-left: 215px;
     margin-top: 20px;
     padding-bottom: 64px;
     border-style: dotted;
@@ -202,6 +201,7 @@ ul li{
 }
 
 ul li a{
+    
     color: white;
     font-size: 30px;
     text-transform: uppercase;
